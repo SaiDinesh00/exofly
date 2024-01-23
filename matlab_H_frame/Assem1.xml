@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="01/22/24||22:26:50" using="Simscape Multibody Link Version 7.4" from="SolidWorks 27.5.0"/>
+<ModelUnits mass="kilogram" length="meter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="142">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="pixhawk-1" uid="pixhawk-1" grounded="true" entityUid="pixhawk*:*Default">
+<Transform>
+<Rotation>-0.99984769515639127 0 -0.017452406437290055 0 1 0 0.017452406437290055 0 -0.99984769515639127</Rotation>
+<Translation>0.172969307669918 0.248922233896432 0.198774862945377</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-7" uid="Propeller 10x45-7" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>-0.60911251695215607 2.2375146160361249e-14 0.79308381757050705 1.3941204325555431e-14 1 -1.7505569772949778e-14 -0.79308381757050705 3.9368188295893618e-16 -0.60911251695215607</Rotation>
+<Translation>-0.034131270547804127 0.30452223389644351 0.47363881191768398</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-7" uid="plat 90 mm-1-7" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.37586872945218952 0.24542223389645948 0.473638811917661</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-8" uid="plat 90 mm-1-8" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.034131270547815347 0.22142223389642249 0.12363881191767601</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-2" uid="D3548 - Moteur Brushless-2" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>-0.75923159204034962 -2.2373325943516651e-14 0.65082055103375169 1.6910146725119596e-14 -1 -1.4650134063258416e-14 0.65082055103375169 -1.1737359874831099e-16 0.75923159204034962</Rotation>
+<Translation>-0.034131270547806 0.219422233896408 0.47363881191768398</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-5" uid="plat 90 mm-1-5" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.034131270547813751 0.24542223389642898 0.12363881191767681</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-6" uid="plat 90 mm-1-6" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.37586872945219202 0.22142223389642748 0.1236388119176688</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-3" uid="D3548 - Moteur Brushless-3" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>-0.90956777393465305 1.1224681315144061e-14 0.415555609539277 -1.0258383654313122e-14 -1 4.5577200428666403e-15 0.415555609539277 -1.173735987482856e-16 0.90956777393465305</Rotation>
+<Translation>0.37586872945218852 0.21942223389643201 0.12363881191767141</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-4" uid="plat 90 mm-1-4" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.03413127054782155 0.24542223389642598 0.47363881191767598</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-1" uid="D3548 - Moteur Brushless-1" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>0.84833307172035377 -1.6673766305190351e-15 0.52946293489299989 3.5379050045142739e-14 1 -5.3536970580487388e-14 -0.52946293489299989 6.4149078373774703e-14 0.84833307172035377</Rotation>
+<Translation>0.37586872945218902 0.25142223389642998 0.47363881191767698</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-4" uid="D3548 - Moteur Brushless-4" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>0.243319741839193 -1.1361419584507122e-14 -0.96994613419060993 2.6506116118670953e-15 1 -1.1048524318656341e-14 0.96994613419060993 1.1737359874828158e-16 0.243319741839193</Rotation>
+<Translation>-0.03413127054781645 0.25142223389642848 0.12363881191767681</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-3" uid="plat 90 mm-1-3" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.37586872945219202 0.221422233896441 0.47363881191766899</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-5" uid="D3548 - Moteur Brushless-5" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>-0.92721238436277553 1.1326476256910941e-14 -0.37453597194968685 1.3457195535814794e-15 -1 -3.3572860912168837e-14 -0.37453597194968685 -3.16331927972242e-14 0.92721238436277553</Rotation>
+<Translation>0.37586872945218952 0.21942223389642848 0.47363881191767498</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-6" uid="D3548 - Moteur Brushless-6" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>-0.12856021310823701 2.254197249945425e-14 0.99170170495243426 3.0144003864049208e-15 1 -2.2339822985831307e-14 -0.99170170495243426 1.1737359874825318e-16 -0.12856021310823701</Rotation>
+<Translation>-0.034131270547805251 0.25142223389641299 0.47363881191768398</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-7" uid="D3548 - Moteur Brushless-7" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>-0.704882821333779 -2.0410746020053952e-14 0.70932376823882892 3.1036457845930202e-14 -1 2.0672082570036249e-15 0.70932376823882892 2.3472036820542e-14 0.704882821333779</Rotation>
+<Translation>-0.034131270547811399 0.21942223389642648 0.1236388119176708</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-1" uid="Propeller 10x45-1" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>-0.93503887692656351 -1.9219322035065037e-15 0.35454519970789466 2.0958510733150052e-14 1 6.0694530793855401e-14 -0.35454519970789466 6.4182485282536098e-14 -0.93503887692656351</Rotation>
+<Translation>0.37586872945218924 0.30452223389646049 0.47363881191768065</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-3" uid="Propeller 10x45-3" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>-0.20305673007588299 0 0.97916697471416492 0 1 0 -0.97916697471416492 0 -0.20305673007588299</Rotation>
+<Translation>0.37586872945219091 0.1663222338963973 0.12363881191767162</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-5" uid="Propeller 10x45-5" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>0.59188185391116521 0 -0.80602473349809933 0 1 0 0.80602473349809933 0 0.59188185391116521</Rotation>
+<Translation>-0.034131270547815201 0.16632223389639239 0.12363881191767609</Translation>
+</Transform>
+</Instance>
+<Instance name="D3548 - Moteur Brushless-8" uid="D3548 - Moteur Brushless-8" grounded="true" entityUid="D3548 - Moteur Brushless*:*Default">
+<Transform>
+<Rotation>0.6789508998933157 -1.1259624642740221e-14 -0.7341836796974287 7.4723847223927162e-15 1 -8.4260144732066184e-15 0.7341836796974287 2.3474719749660453e-16 0.6789508998933157</Rotation>
+<Translation>0.37586872945218852 0.25142223389643348 0.12363881191766901</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-6" uid="Propeller 10x45-6" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>-0.015817470452308302 -1.124900419132029e-14 0.99987489598873824 -1.2639853149137005e-16 1 1.1248412107758212e-14 -0.99987489598873824 0 -0.015817470452308302</Rotation>
+<Translation>-0.034131270547817061 0.30452223389645894 0.12363881191767681</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-8" uid="Propeller 10x45-8" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>0.53459303491152965 2.2387665390395748e-14 0.84510963018065299 -1.1670766781016671e-14 1 -1.9108236589062922e-14 -0.84510963018065299 3.5205279172504002e-16 0.53459303491152965</Rotation>
+<Translation>-0.034131270547809067 0.16632223389637676 0.47363881191768731</Translation>
+</Transform>
+</Instance>
+<Instance name="plate middle-1-1" uid="plate middle-1-1" grounded="true" entityUid="plate middle-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17086872945218401 0.245422233896432 0.29863881191767649</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-2" uid="Propeller 10x45-2" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>0.59531653348109104 -1.152822721664883e-14 -0.80349127248779562 -1.8651058102316673e-14 1 -2.8166467075369712e-14 0.80349127248779562 3.1753925947592616e-14 0.59531653348109104</Rotation>
+<Translation>0.37586872945219052 0.166322233896398 0.47363881191767343</Translation>
+</Transform>
+</Instance>
+<Instance name="Propeller 10x45-4" uid="Propeller 10x45-4" entityUid="Propeller 10x45*:*Default">
+<Transform>
+<Rotation>-0.65300775413246936 0 -0.75735122172138125 -2.2342260457070058e-16 1 1.0036299653416443e-16 0.75735122172138125 2.3474719749657401e-16 -0.65300775413246936</Rotation>
+<Translation>0.37586872945219124 0.30452223389645977 0.12363881191766932</Translation>
+</Transform>
+</Instance>
+<Instance name="Battery.stp-1" uid="Battery.stp-1" grounded="true" entityUid="Battery.stp*:*Default">
+<Transform>
+<Rotation>-0.99984769515639149 0 0.01745240643727726 0 1 0 -0.01745240643727726 0 -0.99984769515639149</Rotation>
+<Translation>0.17127755227641248 0.20017223389643848 0.25658802763002997</Translation>
+</Transform>
+</Instance>
+<Instance name="450 MM-1-2" uid="450 MM-1-2" grounded="true" entityUid="450 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0551209227603148 0.086184708371244798 0.17363881191767649</Translation>
+</Transform>
+</Instance>
+<Instance name="PM03D Power Module-1" uid="PM03D Power Module-1" grounded="true" entityUid="PM03D Power Module*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.15970819937932249 0.19490002205735052 0.2379888598110895</Translation>
+</Transform>
+</Instance>
+<Instance name="450 MM-1-1" uid="450 MM-1-1" grounded="true" entityUid="450 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.26661653614407854 0.086184708371242091 0.17363881191767599</Translation>
+</Transform>
+</Instance>
+<Instance name="400 mm-1-1" uid="400 mm-1-1" grounded="true" entityUid="400 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.200868729452189 0.22542223389643001 0.098638811917676303</Translation>
+</Transform>
+</Instance>
+<Instance name="150 mm-1-2" uid="150 mm-1-2" grounded="true" entityUid="150 mm-1*:*Default">
+<Transform>
+<Rotation>-0.8660254037844578 -2.4527906239972648e-14 0.49999999999996686 0.49999999999996686 3.1762584960890198e-14 0.8660254037844578 -3.7123082385903647e-14 1 -1.5243252346007549e-14</Rotation>
+<Translation>0.06934742006840651 0.096184708371259309 0.38363881191767502</Translation>
+</Transform>
+</Instance>
+<Instance name="500 mm-1-1" uid="500 mm-1-1" grounded="true" entityUid="500 mm-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>-0.0791312705478079 0.22542223389642499 0.0986388119176764</Translation>
+</Transform>
+</Instance>
+<Instance name="200 MM-1-3" uid="200 MM-1-3" grounded="true" entityUid="200 MM-1*:*Default">
+<Transform>
+<Rotation>3.4914813388431353e-15 0 1 -6.9829626776862707e-15 -1 0 1 -6.9829626776862707e-15 -3.4914813388431353e-15</Rotation>
+<Translation>-0.079131270547807497 0.2454222338964315 0.148638811917671</Translation>
+</Transform>
+</Instance>
+<Instance name="500 mm-1-2" uid="500 mm-1-2" grounded="true" entityUid="500 mm-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>-0.079131270547806304 0.22542223389642549 0.51863881191767702</Translation>
+</Transform>
+</Instance>
+<Instance name="60 MM-1-3" uid="60 MM-1-3" grounded="true" entityUid="60 MM-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>0.1408687294521922 0.22542223389642749 0.16863881191767599</Translation>
+</Transform>
+</Instance>
+<Instance name="200 MM-1-1" uid="200 MM-1-1" grounded="true" entityUid="200 MM-1*:*Default">
+<Transform>
+<Rotation>3.4914813388431353e-15 0 1 -6.9829626776862707e-15 -1 0 1 -6.9829626776862707e-15 -3.4914813388431353e-15</Rotation>
+<Translation>0.22086872945219352 0.245422233896438 0.4286388119176695</Translation>
+</Transform>
+</Instance>
+<Instance name="50 MM-1-1" uid="50 MM-1-1" grounded="true" entityUid="50 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.40086872945218899 0.22542223389645999 0.44863881191766053</Translation>
+</Transform>
+</Instance>
+<Instance name="150 mm-1-1" uid="150 mm-1-1" grounded="true" entityUid="150 mm-1*:*Default">
+<Transform>
+<Rotation>0.86602540378442527 -1.2545578408110921e-14 -0.5000000000000232 0.5000000000000232 6.7678220423724104e-16 0.86602540378442527 -1.0526398504474804e-14 -1 6.8588997857544235e-15</Rotation>
+<Translation>0.27239003883597451 0.096184708371251204 0.21363881191767251</Translation>
+</Transform>
+</Instance>
+<Instance name="150 mm-1-4" uid="150 mm-1-4" grounded="true" entityUid="150 mm-1*:*Default">
+<Transform>
+<Rotation>0.86602540378442527 -1.2545578408110921e-14 -0.5000000000000232 0.5000000000000232 6.7678220423724104e-16 0.86602540378442527 -1.0526398504474804e-14 -1 6.8588997857544235e-15</Rotation>
+<Translation>0.27239003883597701 0.096184708371251301 0.40363881191767248</Translation>
+</Transform>
+</Instance>
+<Instance name="200 MM-1-2" uid="200 MM-1-2" grounded="true" entityUid="200 MM-1*:*Default">
+<Transform>
+<Rotation>3.4914813388431353e-15 0 1 -6.9829626776862707e-15 -1 0 1 -6.9829626776862707e-15 -3.4914813388431353e-15</Rotation>
+<Translation>-0.0791312705478147 0.24542223389644249 0.4286388119176705</Translation>
+</Transform>
+</Instance>
+<Instance name="400 mm-1-2" uid="400 mm-1-2" grounded="true" entityUid="400 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.1208687294521892 0.22542223389642949 0.098638811917676303</Translation>
+</Transform>
+</Instance>
+<Instance name="200 MM-1-4" uid="200 MM-1-4" grounded="true" entityUid="200 MM-1*:*Default">
+<Transform>
+<Rotation>3.4914813388431353e-15 0 1 -6.9829626776862707e-15 -1 0 1 -6.9829626776862707e-15 -3.4914813388431353e-15</Rotation>
+<Translation>0.22086872945219252 0.24542223389642898 0.14863881191767001</Translation>
+</Transform>
+</Instance>
+<Instance name="50 MM-1-3" uid="50 MM-1-3" grounded="true" entityUid="50 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.079131270547816004 0.22542223389646049 0.44863881191766053</Translation>
+</Transform>
+</Instance>
+<Instance name="50 MM-1-4" uid="50 MM-1-4" grounded="true" entityUid="50 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.079131270547808205 0.22542223389642499 0.098638811917676095</Translation>
+</Transform>
+</Instance>
+<Instance name="Assembly-1" uid="Assembly-1" grounded="true" entityUid="Assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17044951365007999 0.25060723389643197 0.26124330386452049</Translation>
+</Transform>
+<Instance name="GPS long rod-1" uid="GPS long rod-1" grounded="true" entityUid="GPS long rod*:*Default">
+<Transform>
+<Rotation>2.2204460492502805e-16 -5.5511151231257117e-16 1 -0.52901949145491611 0.84860967332501125 5.8853892310027009e-16 -0.84860967332501125 -0.52901949145491611 -1.0523561029535639e-16</Rotation>
+<Translation>-5.000000000007776e-05 0.061926050040959524 -0.030135595330729542</Translation>
+</Transform>
+</Instance>
+<Instance name="GPS adapter-1" uid="GPS adapter-1" grounded="true" entityUid="GPS adapter*:*Default">
+<Transform>
+<Rotation>0 0 1 0.52901949145491678 -0.84860967332501069 0 0.84860967332501069 0.52901949145491678 0</Rotation>
+<Translation>-5.0000000000050004e-05 0.025435834087983833 -0.0073877571981679213</Translation>
+</Transform>
+</Instance>
+<Instance name="GPS mount-1" uid="GPS mount-1" grounded="true" entityUid="GPS mount*:*Default">
+<Transform>
+<Rotation>0.77505704698996702 0 0.63189126747502367 -0.33428279697443947 0.84860967332501092 0.41002028484718145 -0.53622904206890698 -0.52901949145491622 0.65772090745440359</Rotation>
+<Translation>-5.0000000000050004e-05 0.10562944821719761 -0.057380099140657614</Translation>
+</Transform>
+</Instance>
+<Instance name="GPS-1" uid="GPS-1" grounded="true" entityUid="GPS*:*Default">
+<Transform>
+<Rotation>1 2.5815129788942205e-16 -2.1978683950167454e-16 -1.0279816650871179e-16 0.84860967332501125 0.52901949145491611 3.2308030639854005e-16 -0.52901949145491611 0.84860967332501125</Rotation>
+<Translation>-5.0000000000050004e-05 0.10562944821719739 -0.057380099140657698</Translation>
+</Transform>
+</Instance>
+<Instance name="GPS base-1" uid="GPS base-1" grounded="true" entityUid="GPS base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="GPS screw cap-1" uid="GPS screw cap-1" grounded="true" entityUid="GPS screw cap*:*Default">
+<Transform>
+<Rotation>-0.98644208848462556 -1.7173762412170406e-15 -0.16410973787709895 0.086817250074540955 0.84860967332501125 -0.5218470919998619 0.13926511104933914 -0.52901949145491611 -0.83710429846297973</Rotation>
+<Translation>-5.000000000007776e-05 0.032077402003136246 -0.011528081061282253</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="plat 90 mm-1-1" uid="plat 90 mm-1-1" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.034131270547813349 0.221422233896407 0.47363881191768398</Translation>
+</Transform>
+</Instance>
+<Instance name="TURNIGY - ESC Plush 30A-1" uid="TURNIGY - ESC Plush 30A-1" grounded="true" entityUid="TURNIGY - ESC Plush 30A" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 9.5635305230601407e-15 1 0 -1 9.5635305230601407e-15</Rotation>
+<Translation>0.18849450070309401 0.24942223389642798 0.43204339067991404</Translation>
+</Transform>
+<Instance name="wirefemalered-1" uid="wirefemalered-1" grounded="true" entityUid="wirefemalered*:*Default">
+<Transform>
+<Rotation>-0.59065110625390083 -4.7612121464523595e-16 -0.80692705412635868 -0.80692705412635868 5.6761807329409134e-16 0.59065110625390083 1.7680485761092207e-16 1 -7.194593320616069e-16</Rotation>
+<Translation>0.031966777067652802 -0.033807551280431114 0.0024999999999999745</Translation>
+</Transform>
+</Instance>
+<Instance name="Pièce1^TURNIGY - ESC Plush 30A-1" uid="Pièce1^TURNIGY - ESC Plush 30A-1" grounded="true" entityUid="Pièce1^TURNIGY - ESC Plush 30A*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>-0.0378 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Cable_5-SA_ESC plush 30A (RENDER)-1" uid="Cable_5-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cable_5-SA_ESC plush 30A (RENDER)" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Cble^Cable_5-SA_ESC plush 30A (RENDER)-1" uid="Cble^Cable_5-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cble^Cable_5-SA_ESC plush 30A (RENDER)*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="wirefemalered-2" uid="wirefemalered-2" grounded="true" entityUid="wirefemalered*:*Default">
+<Transform>
+<Rotation>-0.59065110625390083 0.80692705412635868 -2.027551404992505e-16 -0.80692705412635868 -0.59065110625390083 3.6752071222416884e-16 1.7680485761092207e-16 3.8068512347846202e-16 1</Rotation>
+<Translation>0.036808339392410933 -0.037351457917954523 0.00250000000000003</Translation>
+</Transform>
+</Instance>
+<Instance name="wirefemalered-3" uid="wirefemalered-3" grounded="true" entityUid="wirefemalered*:*Default">
+<Transform>
+<Rotation>-0.59065110625390072 -0.80692705412635857 2.278742287183136e-16 -0.80692705412635857 0.59065110625390072 -3.8590727786081323e-16 1.7680485761092207e-16 -4.1181444067090556e-16 -1</Rotation>
+<Translation>0.041649901717169091 -0.040895364555477931 0.0024999999999999745</Translation>
+</Transform>
+</Instance>
+<Instance name="Blackwiremalered-1" uid="Blackwiremalered-1" grounded="true" entityUid="Blackwiremalered*:*Default">
+<Transform>
+<Rotation>0 0 1 -1 -2.3255048927418103e-16 0 2.3255048927418103e-16 -1 0</Rotation>
+<Translation>-0.050000000000000017 -0.035000000000000031 0.0024999999999999745</Translation>
+</Transform>
+</Instance>
+<Instance name="Cable_4-SA_ESC plush 30A (RENDER)-1" uid="Cable_4-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cable_4-SA_ESC plush 30A (RENDER)" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Cble^Cable_4-SA_ESC plush 30A (RENDER)-1" uid="Cble^Cable_4-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cble^Cable_4-SA_ESC plush 30A (RENDER)*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Cable_2-SA_ESC plush 30A (RENDER)-1" uid="Cable_2-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cable_2-SA_ESC plush 30A (RENDER)" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Cble^Cable_2-SA_ESC plush 30A (RENDER)-1" uid="Cble^Cable_2-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cble^Cable_2-SA_ESC plush 30A (RENDER)*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Cable_3-SA_ESC plush 30A (RENDER)-1" uid="Cable_3-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cable_3-SA_ESC plush 30A (RENDER)" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Cble^Cable_3-SA_ESC plush 30A (RENDER)-1" uid="Cble^Cable_3-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cble^Cable_3-SA_ESC plush 30A (RENDER)*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="REDwiremalered-1" uid="REDwiremalered-1" grounded="true" entityUid="REDwiremalered*:*Default">
+<Transform>
+<Rotation>0 0 1 -1 0 2.2204460492503099e-16 0 -1 0</Rotation>
+<Translation>-0.059999999999999998 -0.035000000000000031 0.0024999999999999745</Translation>
+</Transform>
+</Instance>
+<Instance name="J Plug-1" uid="J Plug-1" grounded="true" entityUid="J Plug*:*Default">
+<Transform>
+<Rotation>0.6700888729886989 0 -0.74228087830465883 0.74228087830465883 0 0.6700888729886989 0 -1 0</Rotation>
+<Translation>0.015463944818983555 -0.074573271237150462 0.0012500000000000011</Translation>
+</Transform>
+</Instance>
+<Instance name="Cable_1-SA_ESC plush 30A (RENDER)-1" uid="Cable_1-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cable_1-SA_ESC plush 30A (RENDER)" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Cble^Cable_1-SA_ESC plush 30A (RENDER)-1" uid="Cble^Cable_1-SA_ESC plush 30A (RENDER)-1" grounded="true" entityUid="Cble^Cable_1-SA_ESC plush 30A (RENDER)*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="ESC 30A body-1" uid="ESC 30A body-1" grounded="true" entityUid="ESC 30A body*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="50 MM-1-2" uid="50 MM-1-2" grounded="true" entityUid="50 MM-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.40086872945218899 0.22542223389643051 0.098638811917676303</Translation>
+</Transform>
+</Instance>
+<Instance name="60 MM-1-4" uid="60 MM-1-4" grounded="true" entityUid="60 MM-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>0.140868729452193 0.22542223389642799 0.26863881191767597</Translation>
+</Transform>
+</Instance>
+<Instance name="150 mm-1-3" uid="150 mm-1-3" grounded="true" entityUid="150 mm-1*:*Default">
+<Transform>
+<Rotation>-0.86602540378445736 -1.3133757798408063e-15 0.49999999999996758 0.49999999999996758 7.9215752541232763e-16 0.86602540378445736 -1.5334955527634989e-15 1 0</Rotation>
+<Translation>0.069347420068415405 0.096184708371247402 0.19363881191767651</Translation>
+</Transform>
+</Instance>
+<Instance name="plat 90 mm-1-2" uid="plat 90 mm-1-2" grounded="true" entityUid="plat 90 mm-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.37586872945219202 0.24542223389642498 0.12363881191767601</Translation>
+</Transform>
+</Instance>
+<Instance name="60 MM-1-2" uid="60 MM-1-2" grounded="true" entityUid="60 MM-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>0.1408687294521932 0.22542223389642799 0.34863881191767498</Translation>
+</Transform>
+</Instance>
+<Instance name="60 MM-1-1" uid="60 MM-1-1" grounded="true" entityUid="60 MM-1*:*Default">
+<Transform>
+<Rotation>-3.4914813388431353e-15 0 1 0 1 0 -1 0 -3.4914813388431353e-15</Rotation>
+<Translation>0.14086872945218501 0.22542223389643451 0.44863881191767602</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-6</Uid>
+</InstancePath>
+<Position>0.0042322482271278106 0.048100000000030507 -0.0026623438816151257</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-7</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-6</Uid>
+</InstancePath>
+<Position>0 0.064400000000030488 0</Position>
+<Axis>1.4184708060624839e-16 -1 1.875082640218378e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-7</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-1</Uid>
+</InstancePath>
+<Position>0.0042322482271278661 0.048100000000030507 -0.0026623438816152367</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-1</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-1</Uid>
+</InstancePath>
+<Position>0 0.064400000000030488 0</Position>
+<Axis>1.4184708060629508e-16 -1 1.8750826402182833e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-1</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-5</Uid>
+</InstancePath>
+<Position>0.0042322482271278661 0.048100000000030507 -0.0026623438816150702</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-2</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-5</Uid>
+</InstancePath>
+<Position>1.1102230246251565e-16 0.064400000000030516 0</Position>
+<Axis>1.4184708060630613e-16 -1 1.8750826402182202e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-2</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-3</Uid>
+</InstancePath>
+<Position>0.0042322482271278661 0.048100000000030507 -0.0026623438816151257</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-3</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-3</Uid>
+</InstancePath>
+<Position>0 0.064400000000030488 0</Position>
+<Axis>1.4184708060628475e-16 -1 1.875082640218341e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-3</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-8</Uid>
+</InstancePath>
+<Position>0.0042322482271277551 0.048100000000030507 -0.0026623438816151257</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-4</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-8</Uid>
+</InstancePath>
+<Position>0 0.064400000000030488 0</Position>
+<Axis>1.4184708060626136e-16 -1 1.8750826402184325e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-4</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-7</Uid>
+</InstancePath>
+<Position>0.0042322482271278383 0.048100000000030507 -0.0026623438816151049</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-5</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-7</Uid>
+</InstancePath>
+<Position>0 0.064400000000030516 0</Position>
+<Axis>1.4184708060624775e-16 -1 1.8750826402182518e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-5</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-4</Uid>
+</InstancePath>
+<Position>0.0042322482271278244 0.048100000000030507 -0.0026623438816150979</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-6</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-4</Uid>
+</InstancePath>
+<Position>0 0.064400000000030488 0</Position>
+<Axis>1.4184708060626037e-16 -1 1.8750826402184359e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-6</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-2</Uid>
+</InstancePath>
+<Position>0.0042322482271278106 0.048100000000030479 -0.0026623438816151257</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Propeller 10x45-8</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>D3548 - Moteur Brushless-2</Uid>
+</InstancePath>
+<Position>0 0.064400000000030516 0</Position>
+<Axis>1.4184708060624889e-16 -1 1.8750826402184781e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Propeller 10x45-8</Uid>
+</InstancePath>
+<Position>0 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Assembly" uid="Assembly" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Assembly.sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="TURNIGY - ESC Plush 30A" uid="TURNIGY - ESC Plush 30A" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="TURNIGY - ESC Plush 30A.sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cable_5-SA_ESC plush 30A (RENDER)" uid="Cable_5-SA_ESC plush 30A (RENDER)" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Cable_5-SA_ESC plush 30A (RENDER).sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cable_4-SA_ESC plush 30A (RENDER)" uid="Cable_4-SA_ESC plush 30A (RENDER)" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Cable_4-SA_ESC plush 30A (RENDER).sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cable_2-SA_ESC plush 30A (RENDER)" uid="Cable_2-SA_ESC plush 30A (RENDER)" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Cable_2-SA_ESC plush 30A (RENDER).sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cable_3-SA_ESC plush 30A (RENDER)" uid="Cable_3-SA_ESC plush 30A (RENDER)" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Cable_3-SA_ESC plush 30A (RENDER).sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cable_1-SA_ESC plush 30A (RENDER)" uid="Cable_1-SA_ESC plush 30A (RENDER)" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<AssemblyFile name="Cable_1-SA_ESC plush 30A (RENDER).sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="150 mm-1" uid="150 mm-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="150 mm-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.023655123416489347</Mass>
+<CenterOfMass>0.0099999735666056657 0.010000000319317776 0.074615335412691108</CenterOfMass>
+<Inertia>3.87205402421289e-05 3.8720525181906842e-05 2.0270800350300944e-06 -2.3449736118804827e-11 5.8516325443513759e-07 -4.5247248149906935e-14</Inertia>
+</MassProperties>
+<GeometryFile name="150 mm-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="200 MM-1" uid="200 MM-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="200 MM-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.034361009183013748</Mass>
+<CenterOfMass>0.009999999999999995 0.009999999999999936 0.10000000000000001</CenterOfMass>
+<Inertia>0.00011600896595356088 0.00011600896595356086 2.9445373536969826e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="200 MM-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="400 mm-1" uid="400 mm-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="400 mm-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.06872201836602751</Mass>
+<CenterOfMass>0.009999999999999995 0.009999999999999936 0.20000000000000001</CenterOfMass>
+<Inertia>0.00091923811556739578 0.00091923811556739578 5.8890747073939659e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="400 mm-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="450 MM-1" uid="450 MM-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="450 MM-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.042951261478767183</Mass>
+<CenterOfMass>0.0099999999999999933 0.009999999999999936 0.125</CenterOfMass>
+<Inertia>0.00022554482271463941 0.00022554482271463941 3.6806716921212273e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="450 MM-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="50 MM-1" uid="50 MM-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="50 MM-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.008590252295753437</Mass>
+<CenterOfMass>0.009999999999999995 0.009999999999999936 0.025000000000000001</CenterOfMass>
+<Inertia>2.1577030641607539e-06 2.1577030641607539e-06 7.3613433842424564e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="50 MM-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="500 mm-1" uid="500 mm-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="500 mm-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.085902522957534352</Mass>
+<CenterOfMass>0.0099999999999999933 0.0099999999999999343 0.25</CenterOfMass>
+<Inertia>0.0017933165666407507 0.0017933165666407507 7.3613433842424555e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="500 mm-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="60 MM-1" uid="60 MM-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="60 MM-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010308302754904125</Mass>
+<CenterOfMass>0.0099999999999999915 0.009999999999999936 0.029999999999999995</CenterOfMass>
+<Inertia>3.5341714295257804e-06 3.5341714295257796e-06 8.8336120610909496e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="60 MM-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Battery.stp" uid="Battery.stp*:*Default" version="108">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Battery.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.017199292765546575</Mass>
+<CenterOfMass>-0.00018640802648750145 -0.001355521381174388 -0.02865438389811523</CenterOfMass>
+<Inertia>8.0209754931576756e-05 7.7445979751451994e-05 6.9936277492868884e-06 -1.379226719266512e-06 -1.6929256773430871e-07 -6.3856116112430042e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Battery.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Blackwiremalered" uid="Blackwiremalered*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Blackwiremalered.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00022620712935512348</Mass>
+<CenterOfMass>0.0086276078854175108 0 0</CenterOfMass>
+<Inertia>5.7248737963230485e-10 3.8145452435369967e-09 3.8145452435369967e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Blackwiremalered_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cble^Cable_1-SA_ESC plush 30A (RENDER)" uid="Cble^Cable_1-SA_ESC plush 30A (RENDER)*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Cable_1-SA_ESC plush 30A (RENDER).sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00019194483200750748</Mass>
+<CenterOfMass>0.042823067452665446 -0.019832318039523022 0.0033682615138812995</CenterOfMass>
+<Inertia>2.0565780621000481e-08 1.5747541845248936e-09 2.1821120252549043e-08 -1.3136261568541424e-09 -1.5762575228529191e-10 -2.9163177135373937e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Cble-Cable_1-SA_ESC plush 30A (RENDER)_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cble^Cable_2-SA_ESC plush 30A (RENDER)" uid="Cble^Cable_2-SA_ESC plush 30A (RENDER)*:*Default" version="105">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Cable_2-SA_ESC plush 30A (RENDER).sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00022671128610595055</Mass>
+<CenterOfMass>0.042282279223297643 -0.014874472662940489 0.004726448579730088</CenterOfMass>
+<Inertia>2.7575175129138769e-08 5.7238502205964406e-09 3.2366415057283564e-08 -2.0699503686740267e-09 -1.3260126495146585e-09 -9.1268581373732268e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Cble-Cable_2-SA_ESC plush 30A (RENDER)_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cble^Cable_3-SA_ESC plush 30A (RENDER)" uid="Cble^Cable_3-SA_ESC plush 30A (RENDER)*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Cable_3-SA_ESC plush 30A (RENDER).sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00027612813719475257</Mass>
+<CenterOfMass>0.048047963032681967 -0.015000026166929262 0.0034110152297535125</CenterOfMass>
+<Inertia>6.2212425235555556e-08 3.6477275921059733e-09 6.5393959085068518e-08 -2.7820099193833286e-09 -3.562777234812108e-12 -1.4481577231398172e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Cble-Cable_3-SA_ESC plush 30A (RENDER)_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cble^Cable_4-SA_ESC plush 30A (RENDER)" uid="Cble^Cable_4-SA_ESC plush 30A (RENDER)*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Cable_4-SA_ESC plush 30A (RENDER).sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00018942530398406672</Mass>
+<CenterOfMass>-0.052444215462895273 -0.018145100086691273 0.0036076718860051466</CenterOfMass>
+<Inertia>1.4015231904378384e-08 8.8870355158743174e-09 2.2504187632915797e-08 -1.2909019588918702e-09 -1.0103967169320643e-09 -1.0009064055479221e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Cble-Cable_4-SA_ESC plush 30A (RENDER)_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cble^Cable_5-SA_ESC plush 30A (RENDER)" uid="Cble^Cable_5-SA_ESC plush 30A (RENDER)*:*Default" version="105">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Cable_5-SA_ESC plush 30A (RENDER).sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00024834537339054371</Mass>
+<CenterOfMass>-0.048663954994804519 -0.010487633709539229 0.0049892383961210804</CenterOfMass>
+<Inertia>4.6578851547096614e-08 3.186099700467115e-09 4.8849757502720549e-08 -2.4354671085087607e-09 8.3280761771205315e-11 -7.2666091385577125e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Cble-Cable_5-SA_ESC plush 30A (RENDER)_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="D3548 - Moteur Brushless" uid="D3548 - Moteur Brushless*:*Default" version="103">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="D3548 - Moteur Brushless.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>0 0 0 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="D3548 - Moteur Brushless_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.92941176470588238" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ESC 30A body" uid="ESC 30A body*:*Default" version="107">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="ESC 30A body.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0091912656077971153</Mass>
+<CenterOfMass>-0.00099372687463090124 3.2878745919063549e-05 0.0044584709746494705</CenterOfMass>
+<Inertia>4.8253198852948043e-07 1.8785458830563213e-06 2.2438567609381314e-06 -1.1338141691459169e-11 -2.0343103014951182e-08 8.0975968237287624e-09</Inertia>
+</MassProperties>
+<GeometryFile name="ESC 30A body_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS adapter" uid="GPS adapter*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS adapter.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00048138220503593613</Mass>
+<CenterOfMass>-1.4215812791435098e-09 0.0070980547810430422 6.3121775186563466e-05</CenterOfMass>
+<Inertia>1.161043047319939e-08 4.0174213624840728e-09 1.2573912120555965e-08 7.2317223343000918e-11 -9.2087720916045281e-16 -3.9988298607902859e-15</Inertia>
+</MassProperties>
+<GeometryFile name="GPS adapter_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS base" uid="GPS base*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS base.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0019096131587809982</Mass>
+<CenterOfMass>-2.2948555683699671e-05 0.0034828197305772071 3.1134871548983925e-07</CenterOfMass>
+<Inertia>1.0276507927515621e-07 1.223011611606672e-07 1.0402603619128119e-07 -1.3690560850774887e-12 1.9101484322962122e-14 4.5791938600418099e-10</Inertia>
+</MassProperties>
+<GeometryFile name="GPS base_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS long rod" uid="GPS long rod*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS long rod.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011324718949880877</Mass>
+<CenterOfMass>0 0.00056708860759493681 4.5396093472624996e-05</CenterOfMass>
+<Inertia>8.5726704712990641e-07 2.1507783862598925e-09 8.5726938093399255e-07 5.6065215189873218e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="GPS long rod_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS mount" uid="GPS mount*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS mount.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0014625632484194331</Mass>
+<CenterOfMass>2.0375655978559316e-09 -0.002022514655301432 3.3352006497767156e-05</CenterOfMass>
+<Inertia>5.7764656488283952e-08 1.0243182017480068e-07 5.7936581284017393e-08 1.6999633561428608e-10 1.2513850526658265e-14 8.1141426787595936e-15</Inertia>
+</MassProperties>
+<GeometryFile name="GPS mount_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS screw cap" uid="GPS screw cap*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS screw cap.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0023703292966459179</Mass>
+<CenterOfMass>-1.9335191886509109e-06 0.012600244665990759 6.1221916345286118e-07</CenterOfMass>
+<Inertia>1.7145965501041019e-07 8.4105465540678048e-08 1.7146813138044507e-07 1.6130196523752243e-11 -7.7698956820069358e-15 -3.9101325561913033e-11</Inertia>
+</MassProperties>
+<GeometryFile name="GPS screw cap_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.9137254901960784" b="0.92549019607843142" a="1"/>
+<Specular r="0.44901960784313727" g="0.4568627450980392" b="0.46274509803921571" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GPS" uid="GPS*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="GPS.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.019626326097042832</Mass>
+<CenterOfMass>0 0.0068502048053125193 -6.3401190721108093e-08</CenterOfMass>
+<Inertia>2.6667880259052213e-06 4.8855268939734603e-06 2.6667880259841126e-06 3.7141985343006246e-12 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="GPS_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="J Plug" uid="J Plug*:*Default" version="107">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="J Plug.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00017298738187593109</Mass>
+<CenterOfMass>-2.4532413783241189e-07 3.0097048906495729e-05 0.0010470660422020194</CenterOfMass>
+<Inertia>4.0120838333564983e-09 4.7527605443144835e-09 9.4250398633157598e-10 1.0171244399486397e-11 1.4581430152181666e-13 -1.4212502287064755e-15</Inertia>
+</MassProperties>
+<GeometryFile name="J Plug_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.51372549019607838" b="0" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.51372549019607838" b="0" a="1"/>
+<Specular r="0.3235294117647059" g="0.25686274509803919" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="PM03D Power Module" uid="PM03D Power Module*:*Default" version="134">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="PM03D Power Module.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.015716802113546965</Mass>
+<CenterOfMass>0.013974377120556981 0.0568302816369846 0.099409290254660013</CenterOfMass>
+<Inertia>1.8435418970602087e-05 2.5093032709052516e-05 6.7940698126966525e-06 -9.8537695658031651e-08 9.6267353316995497e-07 -2.0838390115985528e-08</Inertia>
+</MassProperties>
+<GeometryFile name="PM03D Power Module_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.96470588235294119" g="0.8784313725490196" b="0.59999999999999998" a="1"/>
+<Diffuse r="0.96470588235294119" g="0.8784313725490196" b="0.59999999999999998" a="1"/>
+<Specular r="0.4823529411764706" g="0.4392156862745098" b="0.29999999999999999" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pièce1^TURNIGY - ESC Plush 30A" uid="Pièce1^TURNIGY - ESC Plush 30A*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="TURNIGY - ESC Plush 30A.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0004015176854644608</Mass>
+<CenterOfMass>0.0042728521747492547 -0.027859185170398704 -0.016504354581445842</CenterOfMass>
+<Inertia>2.9959530065971172e-07 9.7541720665666336e-08 2.0600779628442009e-07 -1.3687137364767123e-07 -1.0759964678164222e-08 -1.7010101574061377e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Pièce1-TURNIGY - ESC Plush 30A_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Propeller 10x45" uid="Propeller 10x45*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Propeller 10x45.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010197930513910028</Mass>
+<CenterOfMass>2.7537908828089433e-07 0.00052912138897128456 -1.3078440491021917e-05</CenterOfMass>
+<Inertia>3.3723151023366714e-05 3.3922645829599616e-05 2.8342015529399048e-07 -1.2184406101484016e-10 -4.3103955741637499e-07 6.3281024438576095e-12</Inertia>
+</MassProperties>
+<GeometryFile name="Propeller 10x45_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="REDwiremalered" uid="REDwiremalered*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="REDwiremalered.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00022620712935512348</Mass>
+<CenterOfMass>0.0086276078854175108 0 0</CenterOfMass>
+<Inertia>5.7248737963230485e-10 3.8145452435369975e-09 3.8145452435369975e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="REDwiremalered_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pixhawk" uid="pixhawk*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="pixhawk.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.056397592088061624</Mass>
+<CenterOfMass>2.1651734472575701e-05 0.0080547088793254777 0.0013762685674663271</CenterOfMass>
+<Inertia>3.1300735591408994e-05 4.0654576694729291e-05 1.163115619185522e-05 2.7526517664783227e-07 -2.136091315805171e-08 -7.5448703943634945e-09</Inertia>
+</MassProperties>
+<GeometryFile name="pixhawk_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plat 90 mm-1" uid="plat 90 mm-1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="plat 90 mm-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.032349734517542555</Mass>
+<CenterOfMass>0 0.002 0</CenterOfMass>
+<Inertia>2.1913082713874261e-05 4.3739899469035077e-05 2.1913082713874261e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plat 90 mm-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plate middle-1" uid="plate middle-1*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="plate middle-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.12</Mass>
+<CenterOfMass>0 0.002 0</CenterOfMass>
+<Inertia>0.00090015999999999968 0.0009999999999999998 0.00010015999999999998 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plate middle-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wirefemalered" uid="wirefemalered*:*Default" version="104">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="wirefemalered.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00013275769314776361</Mass>
+<CenterOfMass>0.0063526022133041215 0 0</CenterOfMass>
+<Inertia>4.3186206327057135e-10 1.3384422031981613e-09 1.3384422031981613e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="wirefemalered_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
