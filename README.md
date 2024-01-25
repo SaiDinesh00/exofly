@@ -1,6 +1,9 @@
 # Running the Simulink Model
 Clone into the repository. This Model is Devoleped using Matlab 2022b so make sure you are using the appropriate version incase of any compatibility issues. 
 
+# Resolving variable unfound error
+In case of errors such as variable not found, run the file export_file_h_Datafile.m in matlab and then, try simulating the model again.
+
 Dependencies:
 1. Simulink
 2. Simscape
