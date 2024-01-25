@@ -4,7 +4,7 @@ Clone into the repository. This Model is Devoleped using Matlab 2022b so make su
 # Resolving variable unfound error
 In case of errors such as variable not found, run the file export_file_h_Datafile.m in matlab and then, try simulating the model again.
 
-Dependencies:
+# Dependencies:
 1. Simulink
 2. Simscape
 3. Simscape Multibody
