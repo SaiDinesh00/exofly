@@ -1,5 +1,5 @@
 # Running the Simulink Model
-Clone into the repository. This Model is Devoleped using Matlab 2021b so make sure you are using the appropriate version incase of any compatibility issues. 
+Clone into the repository. This Model is Devoleped using Matlab 2022b so make sure you are using the appropriate version incase of any compatibility issues. 
 
 Dependencies:
 1. Simulink
