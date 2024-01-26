@@ -8,6 +8,7 @@ In case of errors such as variable not found, run the file export_file_h_Datafil
 1. Simulink
 2. Simscape
 3. Simscape Multibody
+4. Simscape Contact Forces Library
 
   Make sure you have the whole folder in your present working directory of matlab
   Open the simulink model named "H_frame_model.slx" in simulink to view the simulink model and run it to view the simulation.
